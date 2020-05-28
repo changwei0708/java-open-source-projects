@@ -28,6 +28,4 @@
 
 | 项目  | 简介                             | Star数                                 |
 | ---- | ------------------------------- | ---- |
-|[apache/dubbo](https://github.com/apache/dubbo)
-| Apache Dubbo is a high-performance, java based, open source RPC framework.
-|32.5k|
+|[apache/dubbo](https://github.com/apache/dubbo)| Apache Dubbo is a high-performance, java based, open source RPC framework.|32.5k|
